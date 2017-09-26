@@ -1,1 +1,3 @@
-Este es solo un documento de prueba
+Este es solo un documento de prueba.
+
+Y asi es como se edita y se crea una nueva branch.
