@@ -1,0 +1,1 @@
+[03-Oct-2016 17:56:10 UTC] PHP Fatal error:  Call to undefined function apply_filters() in /home/humaind/public_html/blog/wp-includes/load.php on line 317
