@@ -2,4 +2,4 @@ Este es solo un documento de prueba.
 
 Y asi es como se edita y se crea una nueva branch.
 
-Ahora estoy agregando una liena desde Github.
+Ahora estoy agregando una linea desde Github.
